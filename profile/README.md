@@ -14,8 +14,10 @@ np.: `sem1-ti-lab-zmo-km`, `sem2-po-lab-dusz-ak`
 
 ### [Semestr 1](https://github.com/ITE-2025-PWR/ITE-SI-Sem1)
 
- - [Podstawy programowania - laboratoria]()
+ - [Podstawy programowania - laboratoria](https://github.com/ITE-2025-PWR/Podstawy-programowania)
  - [Technologie informacyjne - laboratoria](https://github.com/ITE-2025-PWR/Technologie-Informacyjne)
 
-### [Semestr 2]()
+### [Semestr 2](https://github.com/ITE-2025-PWR/ITE-SI-Sem2)
 
+- [Programowanie obiektowe - laboratoria]()
+- [Miernictwo - laboratoria]()
