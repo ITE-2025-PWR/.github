@@ -19,5 +19,5 @@ np.: `sem1-ti-lab-zmo-km`, `sem2-po-lab-dusz-ak`
 
 ### [Semestr 2](https://github.com/ITE-2025-PWR/ITE-SI-Sem2)
 
-- [Programowanie obiektowe - laboratoria]()
-- [Miernictwo - laboratoria]()
+- [Programowanie obiektowe - laboratoria](https://github.com/ITE-2025-PWR/Programowanie-obiektowe)
+- [Miernictwo - laboratoria](https://github.com/ITE-2025-PWR/Miernictwo-2)
