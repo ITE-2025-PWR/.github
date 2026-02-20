@@ -9,3 +9,13 @@ Repozytoria, aby dało się stosunkowo łatwo domyślić, do czego to był progr
 `sem<nr semestru> - <skrótowa nazwa przedmiotu> - <nazwa> - <skrotowe naziwsko prowadzącego> - <inicjały/username (uploadera)>`
 
 np.: `sem1-ti-lab-zmo-km`, `sem2-po-lab-dusz-ak`
+
+## Timeline
+
+### [Semestr 1](https://github.com/ITE-2025-PWR/ITE-SI-Sem1)
+
+ - [Podstawy programowania - laboratoria]()
+ - [Technologie informacyjne - laboratoria](https://github.com/ITE-2025-PWR/Technologie-Informacyjne)
+
+### [Semestr 2]()
+
